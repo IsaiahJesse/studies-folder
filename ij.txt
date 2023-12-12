@@ -1,7 +1,5 @@
 <html>
-
 <head><title>work</title></head>
-
 <body>
 <p>my work</p>
 <br>
