@@ -2,8 +2,15 @@
 
 <head><title>work</title></head>
 
-<body><p>my work</p>
+<body>
+<p>my work</p>
+<br>
 <h1>study</h1>
+<br>
 <p>notes</p>
+<br>
+<h3>make notes</h3>
+<br><br>
+<p>making notes for class</p>
 </body>
 </html>
