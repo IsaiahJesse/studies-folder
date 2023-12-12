@@ -14,5 +14,10 @@
 
 <p>coding notes</p>
 <br>
+
+
+
+<h1>studying git</h>
+<p>git commands</p>
 </body>
 </html>
