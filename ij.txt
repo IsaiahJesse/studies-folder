@@ -10,5 +10,9 @@
 <h3>make notes</h3>
 <br><br>
 <p>making notes for class</p>
+
+
+<p>coding notes</p>
+<br>
 </body>
 </html>
