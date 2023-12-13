@@ -20,9 +20,9 @@
 
 <h1>studying git</h>
 <p>git commands</p>
-=======
+
 <p>i made a change in the browser file</p>
 
->>>>>>> df1a3aa38a9e407bf91971e4b77c8852d3b04e15
+<p>merging work</p>
 </body>
 </html>
